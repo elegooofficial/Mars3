@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+E:\MARS3-BUCK_XL4016\Project Outputs for XL4016_BUCK\Pick Place for XL4016_buck.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/06/21
+Time:       11:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint  Center-X(mil) Center-Y(mil) Rotation Description Ref-X(mil) Ref-Y(mil) Pad-X(mil) Pad-Y(mil) 
+D2         "BZT52C30 (WQ)" TopLayer SOD123     500.000       710.000       90       Diode       500.000    710.000    500.000    650.945    
+CR         100R            TopLayer 3296W      485.787       215.000       360      ""          386.575    215.000    386.575    215.000    
+R4         "0.1R ¡À1%"      TopLayer R1206      307.500       484.217       360      ""          307.500    484.217    240.177    484.217    
+R3         "0.1R ¡À1%"      TopLayer R1206      307.500       390.000       360      ""          307.500    390.000    240.177    390.000    
+J2         VOUT            TopLayer VH3.96_2WP 350.000       705.000       180      ""          165.000    865.000    350.000    785.000    
+C10        0.1uF/50V       TopLayer C0603      720.000       400.000       270      Capacitor   720.413    400.037    720.000    430.000    
+U3         LM358           TopLayer SOP8L      1130.965      1840.000      360      ""          1023.465   1915.000   1023.465   1915.000   
+U2         LM2940-5V       TopLayer SOT-223    1935.000      1815.000      90       ""          2005.000   1690.000   2050.000   1724.449   
+U1         XL4016          TopLayer TO220-5L   1064.134      430.000       180      ""          1270.866   500.000    1205.866   430.000    
+R2         10K             TopLayer 0603RES    910.000       1881.496      270      Resistor    910.000    1881.496   910.000    1912.992   
+R1         1K              TopLayer 0603RES    755.000       1881.496      90       Resistor    755.000    1881.496   755.000    1850.000   
+L1         47uH            TopLayer L24x10     1050.000      1302.500      180      ""          1525.000   1495.000   1050.000   1105.000   
+J1         VIN             TopLayer VH3.96_2WP 2300.000      1130.000      360      ""          2485.000   970.000    2300.000   1050.000   
+E4         330UF/35V       TopLayer C10X17     278.425       1660.000      180      Capacitor   376.850    1660.000   376.850    1660.000   
+E3         330UF/35V       TopLayer C10X17     283.425       1240.000      180      Capacitor   381.850    1240.000   381.850    1240.000   
+E2         680UF/35V       TopLayer C10X17     1800.000      938.425       270      Capacitor   1800.000   1036.850   1800.000   1036.850   
+E1         680UF/35V       TopLayer C10X17     1790.000      1408.425      90       Capacitor   1790.000   1310.000   1790.000   1310.000   
+D3         SMBJ28A         TopLayer DO214AA    2100.000      1114.527      270      ""          2100.000   1115.000   2100.000   1222.795   
+D1         Schottky        TopLayer TO-2520    1171.000      818.000       90       ""          1185.000   815.000    1301.000   728.000    
+C9         2.2UF/50V       TopLayer C0805      2275.000      1765.000      270      Capacitor   2275.000   1765.000   2275.000   1807.126   
+C8         2.2UF/50V       TopLayer C0805      2050.000      2070.000      270      Capacitor   2050.000   2070.000   2050.000   2112.126   
+C7         2.2UF/50V       TopLayer C0805      2135.000      2070.000      270      Capacitor   2135.000   2070.000   2135.000   2112.126   
+C6         0.1uF/50V       TopLayer C0603      1345.413      1885.037      90       Capacitor   1345.000   1885.000   1345.413   1855.037   
+C5         0.1uF/25V       TopLayer C0603      2189.587      1756.963      270      Capacitor   2190.000   1757.000   2189.587   1786.963   
+C4         33NF/50V        TopLayer C0603      829.587       1884.963      270      Capacitor   830.000    1885.000   829.587    1914.963   
+C3         1UF/50V         TopLayer C0805      290.000       930.000       360      Capacitor   290.000    930.000    247.874    930.000    
+C2         1UF/50V         TopLayer C0805      1460.000      230.000       180      Capacitor   1460.000   230.000    1502.126   230.000    
+C1         1UF/50V         TopLayer C0805      1460.000      315.000       180      Capacitor   1460.000   315.000    1502.126   315.000    
