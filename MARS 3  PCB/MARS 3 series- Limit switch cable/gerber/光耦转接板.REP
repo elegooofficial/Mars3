@@ -1,0 +1,234 @@
+*************************************************************
+FileName = 光耦转接板.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : 光耦转接板.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 光耦转接板.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 光耦转接板.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 光耦转接板.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 光耦转接板.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 光耦转接板.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 光耦转接板.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : 光耦转接板.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 光耦转接板.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 光耦转接板.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 光耦转接板.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 光耦转接板.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : 光耦转接板.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 光耦转接板.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+

@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [光耦转接板.PrjPCB]
+   Generated File[Pick Place for 光耦转接板.txt]
+   Generated File[Pick Place for 光耦转接板.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:58:55 On 2020/12/12
