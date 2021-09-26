@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: E:\谭宗先的工作\MARS3前面板20210331\mars3_con\mars3_CON.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=20.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

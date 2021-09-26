@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [MARS3_CON.PrjPCB]
+   Generated File[Pick Place for mars3_CON.txt]
+   Generated File[Pick Place for mars3_CON.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:43:11 On 2021/6/30

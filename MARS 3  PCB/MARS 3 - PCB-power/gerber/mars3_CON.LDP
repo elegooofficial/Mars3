@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\谭宗先的工作\MARS3前面板20210331\mars3_con\mars3_CON.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mars3_con-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mars3_con-slotholes.txt|DrillLayers=gtl,gbl

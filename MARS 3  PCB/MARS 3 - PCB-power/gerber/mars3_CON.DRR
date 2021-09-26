@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: mars3_CON.PcbDoc   2021/6/30  9:41:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mars3_CON-RoundHoles.TXT
+ASCII SlotHoles File : mars3_CON-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             174       PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T4      59mil (1.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      63mil (1.6mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              190
+
+Total Processing Time (hh:mm:ss) : 00:00:00
