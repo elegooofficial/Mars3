@@ -1,0 +1,23 @@
+========================================================================================================================,,,,,,,,,,,
+File Design Information:,,,,,,,,,,,
+,,,,,,,,,,,
+Date:       30/06/21,,,,,,,,,,,
+Time:       09:43,,,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,,
+Units used: mil,,,,,,,,,,,
+,,,,,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description,Ref-X(mil),Ref-Y(mil),Pad-X(mil),Pad-Y(mil)
+J2,POWER,BottomLayer,VH3.96_2P,3355,515,360,,3540,675,3355,595
+J1,POWER,BottomLayer,VH3.96_2P,375,655.429,180,,190,495.429,375,575.429
+USB2,USB,BottomLayer,USB10_SMT,3483.642,1068.012,270,,3753.032,1330.512,3313.032,1203.937
+USB1,USB,TopLayer,USB_A_90_Ä¸×ù,1085.63,404.803,360,,1085.63,460,947.835,455
+P2,FPC40P,BottomLayer,FPC0.5_40PIN,1486.909,1300,180,,1999.409,1400,1107.913,1240
+P1,FPC40P,BottomLayer,FPC0.5_40PIN,1496.634,910,0,,984.134,810,1875.63,970
+KEY1,KEY,TopLayer,KEY,2657.48,386.201,180,,2657.48,393.701,3037.48,386.201
+E2,200UF 220V 10*8MM,BottomLayer,CAPAE7766X80M,1960,345,270,Capacitor,1960,345,1960,461.142
+E1,200UF 220V 10*8MM,BottomLayer,CAPAE7766X80M,1655,345,270,Capacitor,1655,345,1655,461.142
+D1,SMBJ28A,BottomLayer,DO214AA,3180,549.528,270,,3180,550,3180,657.795
+C3,104,BottomLayer,C0603,3120.413,1234.963,270,Capacitor,3120,1235,3120.413,1264.963
+C2,104,BottomLayer,C0603,915,580,360,Capacitor,914.963,579.587,885,580
+C1,0.1UF,BottomLayer,C0603,3439.963,329.587,180,Capacitor,3440,330,3469.963,329.587

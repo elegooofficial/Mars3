@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+E:\谭宗先的工作\MARS3前面板20210331\mars3_con\Project Outputs for MARS3_CON\Pick Place for mars3_CON.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/06/21
+Time:       09:43
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer       Footprint     Center-X(mil) Center-Y(mil) Rotation Description Ref-X(mil) Ref-Y(mil) Pad-X(mil) Pad-Y(mil) 
+J2         POWER               BottomLayer VH3.96_2P     3355.000      515.000       360      ""          3540.000   675.000    3355.000   595.000    
+J1         POWER               BottomLayer VH3.96_2P     375.000       655.429       180      ""          190.000    495.429    375.000    575.429    
+USB2       USB                 BottomLayer USB10_SMT     3483.642      1068.012      270      ""          3753.032   1330.512   3313.032   1203.937   
+USB1       USB                 TopLayer    USB_A_90_母座   1085.630      404.803       360      ""          1085.630   460.000    947.835    455.000    
+P2         FPC40P              BottomLayer FPC0.5_40PIN  1486.909      1300.000      180      ""          1999.409   1400.000   1107.913   1240.000   
+P1         FPC40P              BottomLayer FPC0.5_40PIN  1496.634      910.000       0        ""          984.134    810.000    1875.630   970.000    
+KEY1       KEY                 TopLayer    KEY           2657.480      386.201       180      ""          2657.480   393.701    3037.480   386.201    
+E2         "200UF 220V 10*8MM" BottomLayer CAPAE7766X80M 1960.000      345.000       270      Capacitor   1960.000   345.000    1960.000   461.142    
+E1         "200UF 220V 10*8MM" BottomLayer CAPAE7766X80M 1655.000      345.000       270      Capacitor   1655.000   345.000    1655.000   461.142    
+D1         SMBJ28A             BottomLayer DO214AA       3180.000      549.528       270      ""          3180.000   550.000    3180.000   657.795    
+C3         104                 BottomLayer C0603         3120.413      1234.963      270      Capacitor   3120.000   1235.000   3120.413   1264.963   
+C2         104                 BottomLayer C0603         915.000       580.000       360      Capacitor   914.963    579.587    885.000    580.000    
+C1         0.1UF               BottomLayer C0603         3439.963      329.587       180      Capacitor   3440.000   330.000    3469.963   329.587    
